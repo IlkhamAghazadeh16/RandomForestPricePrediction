@@ -4,4 +4,4 @@ Though thankfully to ChatGPT and little logic i in comand with my friend had man
 Firstly i've loaded database from kaggle 
 Then i've trained simple model by using randomforest algorythm
 Added some evaluations
-And at the end of the day havr visualized results with matplotlib
+And at the end of the day have visualized results with matplotlib
